@@ -1,10 +1,10 @@
-
+ 
+<h1 align="center">Hi 👋, I'm Rafiul Goni Rayhan</h1>
+<h3 align="center">A passionate full-stack developer and research trainee from University of Barishal,Bangladesh.</h3>
 
 ![banner](https://github.com/user-attachments/assets/e9dae40e-8d82-44a2-95ef-1e837b6c6771)
 
- 
-<!h1 align="center">Hi 👋, I'm Rafiul Goni Rayhan</h1>
-<h3 align="center">A passionate full-stack developer and research trainee from University of Barishal,Bangladesh.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiul-goni-rayhan&label=Profile%20views&color=0e75b6&style=flat" alt="rafiul-goni-rayhan" /> </p>
 
