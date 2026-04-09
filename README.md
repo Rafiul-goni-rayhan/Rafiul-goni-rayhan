@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafiul-goni-rayhan/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/c/learnwithrayhan" target="_blank">
