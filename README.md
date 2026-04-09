@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rafiul Goni Rayhan</h1>
+ [banner](https://github.com/user-attachments/assets/e58b43eb-e29b-41e3-b37c-cdc5d9d9c05d)
+<!h1 align="center">Hi 👋, I'm Rafiul Goni Rayhan</h1>
 <h3 align="center">A passionate full-stack developer and research trainee from University of Barishal,Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiul-goni-rayhan&label=Profile%20views&color=0e75b6&style=flat" alt="rafiul-goni-rayhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiul-goni-rayhan" alt="rafiul-goni-rayhan" /></a> </p>
 
-- 📫 How to reach me **rafiulgonirayhan98@gmail.com**
+
+- 📫 How to reach me **rayhan.cse8.bu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
