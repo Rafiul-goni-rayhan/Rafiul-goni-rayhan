@@ -60,6 +60,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiul-goni-rayhan&show_icons=true&theme=default" alt="Rafiul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiul-goni-rayhan&show_icons=true&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api? username= Rafiul-goni-rayhan &show_icons=true&theme=default" alt="Rafiul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul-goni-rayhan&show_icons=true&layout=compact&theme=default" alt="Top Languages" />
 </div>
