@@ -57,9 +57,8 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username= Rafiul-goni-rayhan &show_icons=true&theme=default" alt="Rafiul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul-goni-rayhan&show_icons=true&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiul-goni-rayhan&show_icons=true&theme=default&v=1" alt="Rafiul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul-goni-rayhan&show_icons=true&layout=compact&theme=default&v=1" alt="Top Languages" />
 </div>
